@@ -1,0 +1,23 @@
+# Data Science & ML
+numpy
+pandas
+matplotlib
+seaborn
+scikit-learn
+xgboost
+lightgbm
+imbalanced-learn
+shap
+joblib
+
+# Backend & Database
+Django
+djangorestframework
+django-cors-headers
+psycopg2-binary
+python-dotenv
+
+# Utilities & Testing
+pytest
+jupyterlab
+kaggle
